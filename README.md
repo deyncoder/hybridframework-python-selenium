@@ -2,7 +2,7 @@
 
 This is a python test automation project utilizing hybrid framework.
 
-<b> Objectives: </b>
+### Objectives:
 
 - Create hybrid framework from scratch
 - Utilize page object model
