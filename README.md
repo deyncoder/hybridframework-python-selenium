@@ -16,7 +16,7 @@ Objectives:
 
 Required Packages:
 - selenium
-- ytest
+- pytest
 - pytest-html
 - pytest-xdist
 - openpyxl
