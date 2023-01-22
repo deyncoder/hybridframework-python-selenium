@@ -14,7 +14,7 @@ This is a python test automation project utilizing hybrid framework.
 - Run group tests using pytest markers
 - Run tests in command prompt and run.bat file
 
-**Python IDE:** PyCharm
+**Python IDE:** PyCharm\
 **Required Packages:** selenium, pytest, pytest-html, pytest-xdist, openpyxl
 
  
