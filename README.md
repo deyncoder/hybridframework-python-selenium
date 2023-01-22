@@ -2,7 +2,7 @@
 
 This is a python test automation project utilizing hybrid framework.
 
-Objectives:
+<b> Objectives: </b>
 
 - Create hybrid framework from scratch
 - Utilize page object model
@@ -14,11 +14,7 @@ Objectives:
 - Run group tests using pytest markers
 - Run tests in command prompt and run.bat file
 
-Required Packages:
-- selenium
-- pytest
-- pytest-html
-- pytest-xdist
-- openpyxl
+Python IDE: PyCharm
+Required Packages: selenium, pytest, pytest-html, pytest-xdist, openpyxl
 
  
