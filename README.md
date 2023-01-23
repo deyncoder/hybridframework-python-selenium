@@ -15,6 +15,6 @@ This is a python test automation project utilizing hybrid framework.
 - Run tests in command prompt and run.bat file
 
 **Python IDE:** PyCharm\
-**Required Packages:** selenium, pytest, pytest-html, pytest-xdist, openpyxl
+**Required Packages:** selenium, pytest, pytest-html, pytest-xdist, openpyxl, allure-pytest
 
  
